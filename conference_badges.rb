@@ -19,3 +19,5 @@ return room_assignment
 end
 
 def conference_badges(inputs)
+  batch_badge_creator(inputs)
+  room_assignment(inputs)
