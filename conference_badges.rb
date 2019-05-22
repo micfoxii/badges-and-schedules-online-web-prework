@@ -19,6 +19,5 @@ return room_assignment
 end
 
 def conference_badges(inputs)
-  puts badge_messages
-  puts room_assignment
+  
 end
