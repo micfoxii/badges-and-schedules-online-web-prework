@@ -11,4 +11,6 @@ def batch_badge_creator(attendees)
   return badge_messages
 end
 
-def assign_rooms(attendees)
+def assign_rooms(speaker)
+  room_assignment = []
+  speaker.each
