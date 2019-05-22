@@ -18,6 +18,6 @@ end
 return room_assignment
 end
 
-def printer
+def printer(outputs)
   
 end
