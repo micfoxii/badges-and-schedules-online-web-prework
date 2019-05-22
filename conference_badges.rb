@@ -18,6 +18,6 @@ end
 return room_assignment
 end
 
-def conference_badges(inputs)
+def printer
   
 end
